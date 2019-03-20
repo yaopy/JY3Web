@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	width: 80%;
+	height: 500px;
+	/*上下为0左右居中*/
+	margin: 0 auto;
+}
+
+div:first-child {
+	background-color: greenyellow;
+}
+
+div:nth-child(2) {
+	background-color: orangered
+}
+
+div:nth-child(3) {
+	background-color: gold
+}
+
+div:nth-child(4) {
+	background-color: plum
+}
+
+#arrow {
+	width: 40px;
+	height: 40px;
+	position: fixed;
+	right: 50px;
+	top: 60%;
+}
+
+#arrow img {
+	width: 26px;
+	height: 30px;
+}
