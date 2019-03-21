@@ -1,0 +1,37 @@
+#q{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background-color: #000000;
+	position: absolute;
+	top: auto;
+	left: auto;
+	animation: cd 5s linear infinite;
+}
+#w{
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	background-color:white;
+	position: absolute;
+	top: 60px;
+	left: 60px;
+	
+}
+span{
+	color: yellow;
+	position: absolute;
+	top:26px;
+	left: 77px;
+
+}
+@-webkit-keyframes cd {
+	0%{
+		transform: rotate(0deg);
+		
+	}
+	100%{
+		transform: rotate(360deg);
+		
+	}
+}
