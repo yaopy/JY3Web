@@ -1,0 +1,29 @@
+#title{
+	
+	height:50px ;
+	background-color: palevioletred;
+	display: flex;
+	
+}
+
+#lefttitle{
+	height: 100%;
+	flex: 0.6;
+	text-indent: 7px;
+	display:flex ;
+	align-items: center;
+	
+}
+#righttitle{
+	height: 100%;
+	flex: 0.4;
+	display:flex ;
+	justify-content: space-around;
+	align-items: center;
+
+}
+
+#righttitle img{
+	width: 25px;
+	height: 25px;
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			#div1{
+				
+				width: 200px;
+				height: 200px;
+				background-color: lightgreen;
+				display:none ;
+			}
+		</style>
+		<script type="text/javascript" src="../js/jquery.js" ></script>
+	</head>
+	<body>
+		<img src="../img/加号.svg" id="img1" />
+		<div id="div1"></div>
+	</body>
+	<script type="text/javascript">
+		//js代码
+    $(function(){
+    		$("#img1").click(function(){
+    		    $("#div1").toggle(400);
+    	})
+    })
+    </script>
+	
+</html>
