@@ -1,0 +1,86 @@
+#content{
+
+	flex: 1;
+	overflow: scroll;
+}
+
+
+#cut{
+	height: 10px;
+	background-color: lightgray;
+
+}
+
+#friend{
+	height:500px;
+}
+#content #q{
+	width: 95%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	margin-left: 7px;
+	
+}	
+#leftq{
+	flex: 0.13;
+	height:65% ;
+	background-image: url(../img/朋友圈.svg);
+	background-size: cover;
+}
+#centerq{
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+}
+#rightq{
+	flex: 0.13;
+	height:65% ;
+	/*background-image: url(../img/朋友圈.svg);
+	background-size: cover;*/
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+}
+#content #w{
+	width: 95%;
+	height: 134px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-left: 7px;
+	
+}
+#content #w #w1{
+	width:100%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid darkgray;
+
+
+	}	
+#content #w #leftw1{
+	flex: 0.13;
+	height:65% ;
+	background-image: url(../img/朋友圈.svg);
+	background-size: cover;
+}
+#content #w #centerw1{
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+	
+
+}
+#content #w #rightw1{
+	flex: 0.13;
+	height:65% ;
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+	
+
+}

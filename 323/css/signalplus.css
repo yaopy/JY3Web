@@ -1,0 +1,65 @@
+#signal{
+
+	height: 30px;
+	background-color: black;
+	display: flex;
+	justify-content: space-between;
+}
+.signsubdiv{
+	height: 100%;
+	
+	
+}
+/*信号的强弱*/
+#leftsign ul li{
+	width: 5px;
+	height: 5px;
+	border-radius: 50%;
+	border: 1px solid white;
+	margin-left: 2px;
+	
+}
+.havesign{
+	background-color: white;
+}
+#leftsign ul{
+	list-style: none;
+	display: flex;
+	margin-left: 5px;
+	
+}
+#leftsign{
+	flex: 0.4;
+	display: flex;
+	align-items: center;
+}
+#centersign{
+	flex: 0.2;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#righutsign{
+	flex: 0.4;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+/*中国联通*/
+#signal span{
+	font-size: 14px;
+}
+/*wifi图标*/
+#leftsign img{
+	width: 25px;
+	height: 20px;
+}
+/*锁定图标和电量图标*/
+#righutsign img{
+	width: 25px;
+	height: 25px;
+}
+#signal span{
+	font-family: "微软雅黑";
+	color: white;
+}
