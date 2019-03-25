@@ -5,7 +5,7 @@
 }
 #q{
 	height: 268.5px;
-	background-color:burlywood ;
+	/*background-color:burlywood ;*/
 	display: flex;
 	flex-direction: column;
 }
@@ -42,6 +42,75 @@
 	text-indent: 25px;
 	font-size: 18px;
 }
+
+#content #q2{
+	width: 95%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	margin-left: 7px;
+	border-bottom:1px solid lightgray;
+}	
+#leftq2{
+	flex: 0.15;
+	height:80% ;
+	background-image: url(../img/群聊.svg);
+	background-size: cover;
+}
+#rightq2{
+	flex: 0.85;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+}
+
+
+#content #q3{
+	width: 95%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	margin-left: 7px;
+	border-bottom:1px solid lightgray;
+}	
+#leftq3{
+	flex: 0.15;
+	height:80% ;
+	background-image: url(../img/微信标签.svg);
+	background-size: cover;
+}
+#rightq3{
+	flex: 0.85;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+}
+
+
+#content #q4{
+	width: 95%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	margin-left: 7px;
+	border-bottom:1px solid lightgray;
+}	
+#leftq4{
+	flex: 0.15;
+	height:80% ;
+	background-image: url(../img/微信公众号.svg);
+	background-size: cover;
+}
+#rightq4{
+	flex: 0.85;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+}
+
+
+
+
 #content #friend1{
 	width: 95%;
 	height: 68px;

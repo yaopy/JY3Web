@@ -1,0 +1,211 @@
+#content {
+	flex: 1;
+	overflow: scroll;
+}
+
+#cut {
+	height: 10px;
+	background-color: lightgray;
+}
+
+#friend {
+	height: 500px;
+}
+
+#content #q {
+	width: 95%;
+	height: 65px;
+	display: flex;
+	align-items: center;
+	margin-left: 7px;
+}
+
+#leftq {
+	flex: 0.13;
+	height: 65%;
+	background-image: url(../img/支付.svg);
+	background-size: cover;
+}
+
+#centerq {
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+}
+
+#rightq {
+	flex: 0.13;
+	height: 65%;
+	/*background-image: url(../img/朋友圈.svg);
+	background-size: cover;*/
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+}
+
+#content #w {
+	width: 95%;
+	height: 264px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-left: 7px;
+}
+
+#content #w #w1 {
+	width: 100%;
+	height: 65px;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid darkgray;
+}
+
+#content #w #leftw1 {
+	flex: 0.13;
+	height: 65%;
+	background-image: url(../img/收藏.svg);
+	background-size: cover;
+}
+
+#content #w #centerw1 {
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+}
+
+#content #w #rightw1 {
+	flex: 0.13;
+	height: 65%;
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+}
+
+#content #shezhi {
+	width: 95%;
+	height: 65px;
+	display: flex;
+	align-items: center;
+	margin-left: 7px;
+}
+
+#leftshezhi {
+	flex: 0.13;
+	height: 65%;
+	background-image: url(../img/设置.svg);
+	background-size: cover;
+}
+
+#centershezhi {
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+}
+
+#rightshezhi {
+	flex: 0.13;
+	height: 65%;
+	/*background-image: url(../img/朋友圈.svg);
+	background-size: cover;*/
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+}
+
+#cutend {
+	height: 33px;
+	background-color: lightgray;
+}
+
+#content #w #w2 {
+	width: 100%;
+	height: 65px;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid darkgray;
+}
+
+#content #w #leftw2 {
+	flex: 0.13;
+	height: 68%;
+	background-image: url(../img/相册.svg);
+	background-size: cover;
+}
+
+#content #w #centerw2 {
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+}
+
+#content #w #rightw2 {
+	flex: 0.13;
+	height: 65%;
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+}
+
+#content #w #w3 {
+	width: 100%;
+	height: 65px;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid darkgray;
+}
+
+#content #w #leftw3 {
+	flex: 0.13;
+	height: 65%;
+	background-image: url(../img/卡包.svg);
+	background-size: cover;
+}
+
+#content #w #centerw3 {
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+}
+
+#content #w #rightw3 {
+	flex: 0.13;
+	height: 65%;
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+}
+
+#content #w #w4 {
+	width: 100%;
+	height: 65px;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid darkgray;
+}
+
+#content #w #leftw4 {
+	flex: 0.13;
+	height: 65%;
+	background-image: url(../img/表情.svg);
+	background-size: cover;
+}
+
+#content #w #centerw4 {
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+}
+
+#content #w #rightw4 {
+	flex: 0.13;
+	height: 65%;
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+}

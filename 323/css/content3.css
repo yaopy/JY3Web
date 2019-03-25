@@ -64,7 +64,7 @@
 #content #w #leftw1{
 	flex: 0.13;
 	height:65% ;
-	background-image: url(../img/朋友圈.svg);
+	background-image: url(../img/扫一扫.svg);
 	background-size: cover;
 }
 #content #w #centerw1{
@@ -83,4 +83,241 @@
 	margin-right: 7px;
 	
 
+}
+
+#content #w #w2{
+	width:100%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid darkgray;
+
+
+	}	
+#content #w #leftw2{
+	flex: 0.13;
+	height:65% ;
+	background-image: url(../img/摇一摇.svg);
+	background-size: cover;
+}
+#content #w #centerw2{
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+	
+
+}
+#content #w #rightw2{
+	flex: 0.13;
+	height:65% ;
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+	
+
+}
+
+
+#content #e #e1{
+	width:100%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid darkgray;
+
+
+	}	
+#content #e #lefte1{
+	flex: 0.13;
+	height:65% ;
+	background-image: url(../img/看一看.svg);
+	background-size: cover;
+}
+#content #e #centere1{
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+	
+
+}
+#content #e #righte1{
+	flex: 0.13;
+	height:65% ;
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+	
+
+}
+
+
+#content #e #e2{
+	width:100%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid darkgray;
+
+
+	}	
+#content #e #lefte2{
+	flex: 0.13;
+	height:65% ;
+	background-image: url(../img/搜一搜.svg);
+	background-size: cover;
+}
+#content #e #centere2{
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+	
+
+}
+#content #e #righte2{
+	flex: 0.13;
+	height:65% ;
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+	
+}
+
+#content #r{
+	width: 95%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	margin-left: 7px;
+	
+}	
+#leftr{
+	flex: 0.13;
+	height:65% ;
+	background-image: url(../img/附近的人.svg);
+	background-size: cover;
+}
+#centerr{
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+}
+#rightr{
+	flex: 0.13;
+	height:65% ;
+	/*background-image: url(../img/朋友圈.svg);
+	background-size: cover;*/
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+}
+
+
+#content #t{
+	width: 95%;
+	height: 134px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-left: 7px;
+	
+}
+#content #t #t1{
+	width:100%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid darkgray;
+
+
+	}	
+#content #t #leftt1{
+	flex: 0.13;
+	height:65% ;
+	background-image: url(../img/购物.svg);
+	background-size: cover;
+}
+#content #t #centert1{
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+	
+
+}
+#content #t #rightt1{
+	flex: 0.13;
+	height:65% ;
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+	
+
+}
+
+#content #t #t2{
+	width:100%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid darkgray;
+
+
+	}	
+#content #t #leftt2{
+	flex: 0.13;
+	height:65% ;
+	background-image: url(../img/游戏.svg);
+	background-size: cover;
+}
+#content #t #centert2{
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+	
+
+}
+#content #t #rightt2{
+	flex: 0.13;
+	height:65% ;
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
+	
+
+}
+
+
+#content #y{
+	width: 95%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	margin-left: 7px;
+	
+}	
+#lefty{
+	flex: 0.13;
+	height:65% ;
+	background-image: url(../img/小程序.svg);
+	background-size: cover;
+}
+#centery{
+	flex: 0.74;
+	color: black;
+	text-indent: 25px;
+	font-size: 18px;
+}
+#righty{
+	flex: 0.13;
+	height:65% ;
+	/*background-image: url(../img/朋友圈.svg);
+	background-size: cover;*/
+	color: darkgray;
+	font-size: 34px;
+	margin-right: 7px;
 }
