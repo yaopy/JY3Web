@@ -1,0 +1,91 @@
+#y{
+	height: 40px;
+	background-color: aliceblue;
+	display: flex;
+}
+#y span{
+	
+	font-size: 25px;
+	font-weight:600;
+	margin-left: 25px;
+
+}
+#u img{
+	height: 431px;
+	width: 375px;
+	/*position: absolute;*/
+
+}
+/*#i{
+	display: flex;
+}*/
+#i span{
+	
+	font-size: 25px;
+	font-weight:600;
+	margin-left: 25px;
+
+}
+#o{
+	display: flex;
+	height: 300px;
+	position: relative;
+
+}
+#oleft{
+	flex: 0.5;
+	/*background-image: url(../img/5b84c288Nab4b651b.jpg);
+	background-size: cover;*/
+}
+#oright{
+	flex: 0.5;
+	
+}
+#oleft img{
+
+	width: 190px;
+	height: 200px;
+	position: absolute;
+	top: 20px;
+
+}
+#oright img{
+
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	top: 27px;
+
+}
+#le1{
+	/*display: block*/;
+	position: absolute;
+	top: 235px;
+	left: 40px;
+	font-weight: 600;
+	font-size: 20px;
+}
+#le2{
+	/*display: block;*/
+	position: absolute;
+	top: 270px;
+	left: 55px;
+	color: red;
+	font-size: 15px;
+}
+#ri1{
+	/*display: block*/;
+	position: absolute;
+	top: 235px;
+	left: 195px;
+	font-weight: 600;
+	font-size: 20px;
+}
+#ri2{
+	/*display: block;*/
+	position: absolute;
+	top: 270px;
+	left: 240px;
+	color: red;
+	font-size: 15px;
+}
