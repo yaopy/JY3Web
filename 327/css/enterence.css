@@ -1,0 +1,67 @@
+#q{
+	height: 150px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#q img{
+	width: 170px;
+	height: 100px;
+}
+#w input{
+	width: 300px;
+	height: 38px;
+	border-bottom: 1px solid #da291e;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	margin-top: 11px;
+	text-indent: 14px;
+	font-size:17px;
+}
+#e input{
+	width: 300px;
+	height: 38px;
+	border-bottom: 1px solid #da291e;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	margin-top: 11px;
+	text-indent: 14px;
+	font-size:17px;
+}
+#r{
+	height: 50px;
+	font-size: 15px;
+	color: black;
+	text-indent: 40px;
+}
+#t{
+	height: 100px;
+/*	background-color: aliceblue;*/
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#t button{
+	width: 300px;
+	height:50px;
+	border-radius: 40px;
+	background-color:palevioletred;
+	color: white;
+	font-size: 20px;
+}
+#y{
+	height: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#y button{
+	width: 300px;
+	height:50px;
+	border-radius: 40px;
+	background-color:palevioletred;
+	color: white;
+	font-size: 20px;
+}

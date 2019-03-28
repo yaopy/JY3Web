@@ -1,0 +1,47 @@
+#choose1{
+	height: 100px;
+}
+#choose1 ul {
+	list-style: none;
+}
+
+#choose1 ul li {
+	display: inline-block;
+	width: 110px;
+	height: 40px;
+	margin-top: 3px;
+	font-size: 18px;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 3px;
+	transition: background-color .5s;
+}
+#choose1 li:hover {
+	background-color: #fa2f2f;
+	color: white;
+	cursor: pointer;
+}
+
+
+
+
+#choose2{
+	height: 100px;
+}
+#choose2 ul {
+	list-style: none;
+}
+
+#choose2 ul li {
+	display: inline-block;
+	width: 110px;
+	height: 40px;
+	margin-top: 3px;
+	font-size: 18px;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 3px;
+
+}
+
+
